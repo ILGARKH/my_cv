@@ -6,7 +6,7 @@ Email: ragliingos@gmail.com
 Yaşadığım şəhər: Bakı 
 Vətəndaşlıq: Rusiya, Azərbaycanda müvəqqəti qeydiyyat var
 İş icazəsi: var
-Doğum tarixi: 02.10.1985 
+Doğum tarixi: 02.10.1985
 İstiqamət: Biznes Analitiki / Sistem Analitiki
 
 ---Bacarıqlar---
