@@ -1,6 +1,6 @@
 <!--<div align="center">-->
 
-<img src="images/info.png" width="20">Коротко о себе<br><br>
+<img src="images/info.png" width="20"> &nbsp; Коротко о себе &nbsp; <img src="images/s2.png" width="60"> <br>
 
 <!--
 <table border="0" bordercolor="white">
