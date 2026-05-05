@@ -1,12 +1,17 @@
-<div align="center">
+<!--<div align="center">-->
+
+<img src="images/info.png" width="20">Коротко о себе<br><br>
+
+<!--
 <table border="0" bordercolor="white">
   <tr>
     <td align="center" valign="middle"><img src="images/info.png" width="30"></td>
-    <td align="center" valign="middle">Коротко о себе:</td>
+    <td align="center" valign="middle">Коротко о себе</td>
   </tr>
 </table>
-</div>
+-->
 
+<!-- </div> -->
 
 Я, Худавердиев Ильгар, родился, вырос и получил среднее и высшее образование в России в городе Москва.<br>
 С января 2026 года переехал на постоянное место жительство в Азербайджан в город Баку.<br>
