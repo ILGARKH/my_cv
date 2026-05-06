@@ -10,6 +10,10 @@
 </ul>
 <p><strong>Резюме для скачивания:</strong></p>
 <ul>
- <li>[CV_KH_v1_az.pdf](CV_KH_v1_az.pdf) (резюме на азербайджанском языке)</li>
- <li>[CV_KH_v1_ru.pdf](CV_KH_v1_ru.pdf) (резюме на русском языке)</li>
+  <li><a href="CV_KH_v1_az.pdf">CV_KH_v1_az.pdf</a> (резюме на азербайджанском языке)</li>
+  <li><a href="CV_KH_v1_ru.pdf">CV_KH_v1_ru.pdf</a> (резюме на русском языке)</li>
 </ul>
+
+<!--[CV_KH_v1_az.pdf](CV_KH_v1_az.pdf) (резюме на азербайджанском языке)-->
+<!--[CV_KH_v1_ru.pdf](CV_KH_v1_ru.pdf) (резюме на русском языке)-->
+
