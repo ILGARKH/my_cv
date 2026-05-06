@@ -1,4 +1,4 @@
-<img src="images/info.png" width="20"> &nbsp; Коротко о себе &nbsp; <img src="images/s2.png" width="60"> <br>
+<img src="images/info.png" width="20"> &nbsp; Коротко о себе &nbsp; <img src="images/s2.png" width="60"> <br><br>
 **Худавердиев Ильгар** <br><br>
 Data Analyst | Business analyst | System analyst <br>
 Проживаю в Баку и нахожусь в поиске новых профессиональных вызовов в IT-сфере. <br><br>
