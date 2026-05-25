@@ -1,4 +1,4 @@
-<p>(AZ)<img src="images/info.png" width="20">&nbsp;Özüm haqqında qısaca&nbsp;<img src="images/s2.png" width="60"></p>
+<p><img src="images/info.png" width="20">(AZ)&nbsp;Özüm haqqında qısaca&nbsp;<img src="images/s2.png" width="60"></p>
 <p><strong>KHUDAVERDIEV ILGAR</strong></p>
 <p>Data Analitik | Biznes analitik | Sistem analitiki</p>
 <p>Bakı şəhərində yaşayıram və İT sahəsində yeni peşəkar imkanlar (müsabiqələr) axtarışındayam.</p>
@@ -16,7 +16,7 @@
 
 -------------------------------------------------------------------------------------------------------------
 
-<p>(RU)<img src="images/info.png" width="20">&nbsp;Коротко о себе&nbsp;<img src="images/s2.png" width="60"></p>
+<p><img src="images/info.png" width="20">(RU)&nbsp;Коротко о себе&nbsp;<img src="images/s2.png" width="60"></p>
 <p><strong>ХУДАВЕРДИЕВ ИЛЬГАР</strong></p>
 <p>Data Analyst | Business analyst | System analyst</p>
 <p>Проживаю в Баку и нахожусь в поиске новых профессиональных вызовов в IT-сфере.</p>
