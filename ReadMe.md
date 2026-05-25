@@ -1,5 +1,5 @@
 <p><img src="images/info.png" width="20">&nbsp;Коротко о себе&nbsp;<img src="images/s2.png" width="60"></p>
-<p><strong>Худавердиев Ильгар</strong></p>
+<p><strong>ХУДАВЕРДИЕВ ИЛЬГАР</strong></p>
 <p>Data Analyst | Business analyst | System analyst</p>
 <p>Проживаю в Баку и нахожусь в поиске новых профессиональных вызовов в IT-сфере.</p>
 <p><strong>Основные компетенции:</strong></p>
